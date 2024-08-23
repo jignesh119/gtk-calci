@@ -42,13 +42,9 @@ pip install pygobject
 2. Click on `=` to display the result.
 3. Use the `C` button to clear the input.
 
-## Screenshot
+## Demo
 
 ![GTK Calculator App](./gtk-calci.png)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
